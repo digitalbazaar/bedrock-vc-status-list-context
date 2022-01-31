@@ -1,0 +1,30 @@
+{
+  "name": "bedrock-vc-status-list-context",
+  "version": "1.0.0",
+  "description": "Bedrock VC Status List 2021 Context (Bedrock Module)",
+  "main": "lib",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/digitalbazaar/bedrock-vc-status-list-context.git"
+  },
+  "author": {
+    "name": "Digital Bazaar, Inc.",
+    "email": "support@digitalbazaar.com",
+    "url": "https://digitalbazaar.com"
+  },
+  "bugs": {
+    "url": "https://github.com/digitalbazaar/bedrock-vc-status-list-context/issues"
+  },
+  "homepage": "https://github.com/digitalbazaar/bedrock-vc-status-list-context#readme",
+  "dependencies": {
+    "vc-status-list-context": "~1.0.0"
+  },
+  "peerDependencies": {
+    "bedrock": "^4.4.3",
+    "bedrock-jsonld-document-loader": "^1.2.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.8.0",
+    "eslint-config-digitalbazaar": "^2.8.0"
+  }
+}
