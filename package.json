@@ -1,7 +1,7 @@
 {
   "name": "bedrock-vc-status-list-context",
-  "version": "1.0.0",
-  "description": "Bedrock VC Status List 2021 Context (Bedrock Module)",
+  "version": "0.0.1",
+  "description": "VC Status List 2021 Context for Bedrock apps",
   "main": "lib",
   "repository": {
     "type": "git",
@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/digitalbazaar/bedrock-vc-status-list-context#readme",
   "dependencies": {
-    "vc-status-list-context": "~1.0.0"
+    "vc-status-list-context": "^1.0.0"
   },
   "peerDependencies": {
     "bedrock": "^4.4.3",
