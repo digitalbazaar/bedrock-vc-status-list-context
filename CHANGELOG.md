@@ -1,6 +1,6 @@
 # bedrock-vc-status-list-context ChangeLog
 
-## 1.0.1 - 2022-02-xx
+## 1.0.1 - 2022-02-21
 
 ### Changed
 - Use `@digitalbazaar/vc-status-list-context`. This dependency was
