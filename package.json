@@ -5,7 +5,7 @@
   "main": "lib",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/digitalbazaar/bedrock-vc-status-list-context.git"
+    "url": "https://github.com/digitalbazaar/bedrock-vc-status-list-context"
   },
   "author": {
     "name": "Digital Bazaar, Inc.",
