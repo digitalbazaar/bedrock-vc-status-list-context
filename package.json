@@ -1,6 +1,6 @@
 {
   "name": "bedrock-vc-status-list-context",
-  "version": "1.0.1",
+  "version": "1.0.2-0",
   "description": "VC Status List 2021 Context for Bedrock apps",
   "main": "lib",
   "repository": {
