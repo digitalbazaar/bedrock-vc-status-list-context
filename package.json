@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/digitalbazaar/bedrock-vc-status-list-context#readme",
   "dependencies": {
-    "vc-status-list-context": "^1.0.0"
+    "@digitalbazaar/vc-status-list-context": "^2.0.0"
   },
   "peerDependencies": {
     "bedrock": "^4.4.3",

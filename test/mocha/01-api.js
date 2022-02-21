@@ -7,7 +7,7 @@ const {documentLoader} = require('bedrock-jsonld-document-loader');
 
 describe('bedrock-vc-status-list-context', () => {
   it('sets up contexts properly', async () => {
-    const {contexts, constants} = require('vc-status-list-context');
+    const {contexts, constants} = require('@digitalbazaar/vc-status-list-context');
 
     for(const c in constants) {
       if(!c.includes('URL')) {
