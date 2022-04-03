@@ -1,5 +1,17 @@
 # bedrock-vc-status-list-context ChangeLog
 
+## 2.0.0 - 2022-04-xx
+
+### Changed
+- **BREAKING**: Rename package to `@bedrock/vc-status-list-context`.
+- **BREAKING**: Convert to module (ESM).
+- **BREAKING**: Remove default export.
+- **BREAKING**: Require node 14.x.
+
+### Removed
+- **BREAKING**: Remove adding any constants to bedrock config system. If
+  constants are needed, import them from `constants`.
+
 ## 1.1.0 - 2022-03-28
 
 ### Changed
