@@ -1,6 +1,6 @@
 # bedrock-vc-status-list-context ChangeLog
 
-## 2.0.0 - 2022-04-xx
+## 2.0.0 - 2022-04-03
 
 ### Changed
 - **BREAKING**: Rename package to `@bedrock/vc-status-list-context`.
