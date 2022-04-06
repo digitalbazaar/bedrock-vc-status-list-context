@@ -1,5 +1,10 @@
 # bedrock-vc-status-list-context ChangeLog
 
+## 3.0.0 - 2022-04-TBD
+
+### Changed
+- **BREAKING**: Use `@digitalbazaar/vc-status-list-context` v3.0.
+
 ## 2.0.0 - 2022-04-03
 
 ### Changed
