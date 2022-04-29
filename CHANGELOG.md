@@ -1,5 +1,12 @@
 # bedrock-vc-status-list-context ChangeLog
 
+## 4.0.0 - 2022-04-xx
+
+### Changed
+- **BREAKING**: Update peer deps:
+  - `@bedrock/core@6`
+  - `@bedrock/jsonld-document-loader@3`.
+
 ## 3.0.0 - 2022-04-06
 
 ### Changed
