@@ -1,5 +1,10 @@
 # bedrock-vc-status-list-context ChangeLog
 
+## 4.1.0 - 2022-TBD
+
+### Changed
+- Export constants.
+
 ## 4.0.0 - 2022-04-29
 
 ### Changed
