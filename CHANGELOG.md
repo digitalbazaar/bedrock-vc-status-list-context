@@ -5,6 +5,7 @@
 ### Changed
 - **BREAKING**: Drop support for Node.js < 18.
 - Use peer `@bedrock/jsonld-document-loader@4`.
+- Update test deps.
 
 ## 4.1.0 - 2022-06-08
 
