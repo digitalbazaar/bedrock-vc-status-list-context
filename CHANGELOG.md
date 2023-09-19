@@ -1,5 +1,11 @@
 # bedrock-vc-status-list-context ChangeLog
 
+## 5.0.0 - 2023-09-xx
+
+### Changed
+- **BREAKING**: Drop support for Node.js < 18.
+- Use peer `@bedrock/jsonld-document-loader@4`.
+
 ## 4.1.0 - 2022-06-08
 
 ### Changed
