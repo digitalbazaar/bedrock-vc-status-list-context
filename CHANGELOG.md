@@ -1,6 +1,6 @@
 # bedrock-vc-status-list-context ChangeLog
 
-## 6.0.1 - 2024-08-xx
+## 6.0.1 - 2024-08-01
 
 ### Changed
 - Remove `@bedrock/core` peer dep.
