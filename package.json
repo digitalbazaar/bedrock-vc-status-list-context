@@ -31,7 +31,8 @@
   "devDependencies": {
     "eslint": "^8.57.0",
     "eslint-config-digitalbazaar": "^5.2.0",
-    "eslint-plugin-jsdoc": "^48.10.2"
+    "eslint-plugin-jsdoc": "^48.10.2",
+    "eslint-plugin-unicorn": "^55.0.0"
   },
   "engines": {
     "node": ">=18"

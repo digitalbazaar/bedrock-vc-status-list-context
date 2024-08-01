@@ -2,6 +2,7 @@
   "name": "bedrock-vc-status-list-context-test",
   "version": "0.0.1-0",
   "type": "module",
+  "private": true,
   "scripts": {
     "test": "node --preserve-symlinks test.js test",
     "coverage": "cross-env NODE_ENV=test c8 --reporter=lcov --reporter=text-summary npm test",
