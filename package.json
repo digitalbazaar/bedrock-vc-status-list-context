@@ -1,6 +1,6 @@
 {
   "name": "@bedrock/vc-status-list-context",
-  "version": "6.0.0",
+  "version": "6.0.1-0",
   "type": "module",
   "description": "VC Status List 2021 Context for Bedrock apps",
   "main": "./lib/index.js",
