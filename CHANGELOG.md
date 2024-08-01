@@ -9,8 +9,8 @@
 ### Changed
 - Update dependencies.
   - `@digitalbazaar/vc-status-list-context@3.1.1`
+- **BREAKING**: Update peer dependencies.
   - `@bedrock/core@6.1.3`
-- **BREAKING**: Update dependencies.
   - `@bedrock/jsonld-document-loader@5.1.0`
 - Update dev and test dependencies.
 
