@@ -1,6 +1,6 @@
 # bedrock-vc-status-list-context ChangeLog
 
-## 6.0.0 - 2024-mm-dd
+## 6.0.0 - 2024-08-01
 
 ### Added
 - Add context from `@digitalbazaar/vc-bitstring-status-list-context`.
