@@ -5,6 +5,9 @@
   "description": "VC Status List 2021 Context for Bedrock apps",
   "license": "SEE LICENSE IN LICENSE.md",
   "main": "./lib/index.js",
+  "files": [
+    "lib/**/*.js"
+  ],
   "scripts": {
     "lint": "eslint --ext .cjs,.js ."
   },

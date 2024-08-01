@@ -1,5 +1,10 @@
 # bedrock-vc-status-list-context ChangeLog
 
+## 6.0.2 - 2024-08-xx
+
+### Fixed
+- Add package `files` field.
+
 ## 6.0.1 - 2024-08-01
 
 ### Changed
