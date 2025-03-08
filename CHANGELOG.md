@@ -1,6 +1,6 @@
 # bedrock-vc-status-list-context ChangeLog
 
-## 6.0.3 - 2025-03-xx
+## 6.0.3 - 2025-03-07
 
 ### Changed
 - Update dependencies.
