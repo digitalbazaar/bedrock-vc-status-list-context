@@ -1,5 +1,11 @@
 # bedrock-vc-status-list-context ChangeLog
 
+## 6.0.3 - 2025-03-xx
+
+### Changed
+- Update dependencies.
+  - `@digitalbazaar/vc-bitstring-status-list-context@1.1.0`.
+
 ## 6.0.2 - 2024-08-01
 
 ### Fixed

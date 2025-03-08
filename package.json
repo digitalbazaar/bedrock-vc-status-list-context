@@ -25,7 +25,7 @@
   },
   "homepage": "https://github.com/digitalbazaar/bedrock-vc-status-list-context",
   "dependencies": {
-    "@digitalbazaar/vc-bitstring-status-list-context": "^1.0.0",
+    "@digitalbazaar/vc-bitstring-status-list-context": "^1.1.0",
     "@digitalbazaar/vc-status-list-context": "^3.1.1"
   },
   "peerDependencies": {
